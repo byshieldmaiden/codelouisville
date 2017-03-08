@@ -390,6 +390,10 @@ footer {
    ========================================================================== */
 
    @media screen and (min-width: 994px) {
+     .span_1_of_2 {
+       width: 48.2%;
+     }
+
      nav {
        margin-top: 4em;
      }
@@ -405,8 +409,8 @@ footer {
        float: left;
      }
      .nwsltr-btn {
-  width: 20%;
-  float: right;
-}
+       width: 20%;
+       float: right;
+      }
 
-   } /*Media*/
+} 
